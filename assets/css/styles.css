@@ -54,10 +54,12 @@
 
 .card {
     background-color: var(--primary);
+    margin-bottom: 1.5rem;
 }
 
 .card h1 {
     color: var(--tertiary);
+    
 }
 
 .about-me-text {
