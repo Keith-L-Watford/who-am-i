@@ -1,0 +1,14 @@
+.block:not(:last-child) {
+    margin-bottom: 1rem;
+  }
+
+
+
+  #my-name {
+      text-align: center;
+      margin-top: 2.5rem;
+  }
+
+  #nav-bar {
+      margin-right: 2rem;
+  }
