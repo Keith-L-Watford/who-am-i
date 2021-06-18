@@ -23,24 +23,66 @@
 }
 
 .is-tertiary {
-color: var(--tertiary);
+    color: var(--tertiary);
 }
 
 .block:not(:last-child) {
     margin-bottom: 1rem;
-  }
+}
 
+.title {
+    color: var(--tertiary);
+}
 
+.subtitle {
+    color: var(--secondary);
+}
 
-  #my-name {
-      text-align: center;
-      margin-top: 2.5rem;
-  }
+#my-name {
+    text-align: center;
+    margin-top: 2.5rem;
+    color: var(--tertiary);
+}
 
-  #nav-bar {
-      margin-right: 2rem;
-  }
+#nav-bar {
+    margin-right: 2rem;
+}
 
-  /* .image {
+.navbar-item {
+    color: var(--tertiary);
+}
+
+.card {
+    background-color: var(--primary);
+}
+
+.card h1 {
+    color: var(--tertiary);
+}
+
+.about-me-text {
+    color: var(--secondary);
+}
+
+.is-child {   
+    background-color: var(--primary);
+}
+
+a {
+    color: var(--secondary);
+}
+
+p {
+    color: var(--light);
+}
+
+.fas, .fab {
+    color: var(--secondary);
+}
+
+li, .li {
+    color: var(--light);
+}
+/* .image {
       max-height: 10rem;
   } */
