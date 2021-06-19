@@ -21,6 +21,8 @@ A photo of my original wireframe for this iteration of my portfolio:
 ![A hand-drawn wireframe of the application](assets/images/wireframe.jpg)
 
 Here's a screenshot the mobile version:
+
+
 ![A screenshot of the mobile version](assets/images/screenshot-mobile.png)
 
 Here's a screenshot the desktop version:
@@ -33,7 +35,7 @@ Here's a screenshot the desktop version:
 Shout out to my tutor Scott (https://github.com/smack322) for giving me some early career advice and some tips and tricks for LinkedIn and building a resumé.
 
 ## Notes
-Im super happy with how this draft turned out. Using Bulma made the process so efficient and easy. The next thing I would like to look into for this project is the white space in the mobile version of the website.
+Im super happy with how this draft turned out. Using Bulma made the process so efficient and easy. The next thing I would like to look into why that white space shows up.
 
 ## License
 This is free and unencumbered software released into the public domain.
