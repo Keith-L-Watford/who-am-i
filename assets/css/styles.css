@@ -59,14 +59,14 @@
 
 .card h1 {
     color: var(--tertiary);
-    
+
 }
 
 .about-me-text {
     color: var(--secondary);
 }
 
-.is-child {   
+.is-child {
     background-color: var(--primary);
 }
 
@@ -78,13 +78,16 @@ p {
     color: var(--light);
 }
 
-.fas, .fab {
+.fas,
+.fab {
     color: var(--secondary);
 }
 
-li, .li {
+li,
+.li {
     color: var(--light);
 }
+
 /* .image {
       max-height: 10rem;
   } */
