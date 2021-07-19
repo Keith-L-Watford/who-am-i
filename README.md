@@ -1,4 +1,4 @@
-# Portfolio (v2)
+# Portfolio (v2.5)
 
 ## Description
 I wanted to create a new portfolio, using some of the new tools Ive learned. I also wanted to challenge myself and work with a new-to-me CSS framework. I decided to use Bulma (https://bulma.io/documentation/). I found it to be very easy to pick up and I was mostly able to create what I originally had in my wireframe.
@@ -36,6 +36,8 @@ Shout out to my tutor Scott (https://github.com/smack322) for giving me some ear
 
 ## Notes
 Im super happy with how this draft turned out. Using Bulma made the process so efficient and easy. The next thing I would like to look into why that white space shows up.
+
+*Updated the content on the index.html on July, 19, 2021. However didnt update the screenshots used for this readme
 
 ## License
 This is free and unencumbered software released into the public domain.
